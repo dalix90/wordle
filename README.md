@@ -1,2 +1,2 @@
-# wordle
+# ashley
 A wordle copycat
